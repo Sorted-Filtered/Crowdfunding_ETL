@@ -11,7 +11,7 @@ FROM category;
 SELECT *
 FROM campaign;
 
---- IMPORT DATA TO TABLES IN SAME ORDER AS PREVIOUS QUERY
+--- IMPORT DATA TO TABLES IN SAME ORDER AS THEY WERE CREATED
 
 -- Query to make sure data is imported appropriately
 SELECT *
